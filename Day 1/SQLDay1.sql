@@ -51,4 +51,3 @@ update Student set Roll = 10 where name = 'Sarthak'
 update Student set Name = 'Julia' where name = 'Zoya'
 
 select * from Student
-
